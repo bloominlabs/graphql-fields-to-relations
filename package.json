@@ -23,7 +23,7 @@
     "lint": "eslint src/**/*.ts --fix"
   },
   "dependencies": {
-    "graphql": "^15.3.0",
+    "graphql": "^16.0.1",
     "graphql-fields": "^2.0.3"
   },
   "devDependencies": {
